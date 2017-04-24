@@ -19,5 +19,5 @@ weight = 1
 +++
 
 # About
-
+![](img/tmpic.jpg)
 Critical Muslim Studies is inspired by a need to open up a space for intellectually rigorous and socially committed explorations between decolonial thinking and studies of Muslims, Islam and the Islamicate. Critical Muslim Studies does not take Islam only as a religio-spiritual tradition, or a civilization, but also as a possibility for a decolonial epistemic perspective that suggests contributions and responses to the problems facing humankind today. It offers an opportunity to interpret and understand Muslim phenomena in ways that does not reproduce Eurocentrism, Islamophobia or takfiri exclusivism
